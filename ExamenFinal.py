@@ -10,10 +10,4 @@ raiz = Tk()
 raiz.geometry('300x200') # anchura x altura
 raiz.configure(bg = 'beige')
 raiz.title('Examen final')
-ttk.Button(raiz, text='Salir', command=quit).pack(side=BOTTOM)
-raiz.mainloop()
-#Hice la interfaz gráfica
-#....................................................................
 
-        
-    
